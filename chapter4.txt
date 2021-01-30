@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my forth one
+=======
+I created this file on here, hope this solution works!!
+>>>>>>> Halifax
